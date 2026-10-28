@@ -1,6 +1,6 @@
 # Stratum Rust Demo
 
-A multi-screen Android app written **100% in Rust**, with no Java except a tiny `MainActivity`. It drives the real Android SDK (views, sensors, canvas, clipboard, files) through the **Stratum Rust SDK**.
+A multi-screen Android app written **in Rust**.
 
 ## Built on
 
